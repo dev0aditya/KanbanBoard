@@ -44,8 +44,7 @@ function TaskComponent({ task, tasks, setTasks, containerId }) {
       <div
         {...attributes}
         {...listeners}
-        className="absolute top-0 right-0 cursor-grab p-2 text-lg"
-        style={{ cursor: "grab" }}
+        className="absolute -top-2 xl:-top-3 right-0 cursor-grab p-2 font-[800] text-[#2E8B57] text-2xl"
       >
         ::
       </div>
