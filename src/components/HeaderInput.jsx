@@ -47,7 +47,7 @@ function HeaderInput({ setTasks }) {
         type="submit"
         className="px-2 w-full py-1 bg-[#2E8B57] h-full flex justify-center items-center text-xl mt-2 xl:w-fit xl:px-6"
       >
-        Add Todo
+        Add-Todo
       </button>
     </form>
   );
